@@ -1,6 +1,18 @@
 1. lave en basic HTML '
 2. Lave html´en for headeren '
 3. Give classerne i headeren navne i forhold til BEM '
-4. Starte med styling af siden
-4.1 Give billede ordentlige opløsning 
-4.2 Lvae gradient der skal ligge over billedet
+4. Starte med styling af siden '
+4.1 Give billede ordentlige opløsning ' 
+4.2 Lvae gradient der skal ligge over billedet '
+4.3 centrer elementerne '
+4.4 lave knappen '
+5 lav html´en for den første section af main
+5.1 lav en div med en h2 ' 
+5.2 lav tre columns 
+5.3 indsæt billeder i css 
+5.4 lav diver med h3 
+5.5 lav diver med p 
+5.6 lav knapper med a tag
+5.7 giv section classerne navne i forhold til BEM
+
+

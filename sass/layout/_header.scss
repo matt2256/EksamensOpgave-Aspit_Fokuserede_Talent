@@ -1,0 +1,15 @@
+.header {
+  height: 100vh;
+  background-image: linear-gradient(
+      rgba($color-black, 0.7),
+      rgba($color-primary-light, 0.8)
+    ),
+    url(../css/img/hero.jpg);
+
+  background-size: cover;
+    position: relative;
+
+  &__center {
+    @include AbsCenter;
+  }
+}

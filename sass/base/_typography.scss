@@ -1,0 +1,64 @@
+body {
+  font-family: Myriad-Pro, Regular, Myriad Pro Regular, MyriadPro, Myriad Pro,
+    Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.heading-primary {
+  backface-visibility: hidden;
+
+  &--main {
+    color: $color-text-light;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem;
+    white-space: nowrap;
+  }
+
+  &--sub {
+    display: block;
+    font-size: 1.6rem;
+    color: $color-text-light;
+    letter-spacing: 1rem;
+  }
+}
+
+.heading-secoundary {
+  backface-visibility: hidden;
+
+  &--main {
+    color: $color-text-dark;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: .4rem;
+  }
+
+  &--sub {
+    color: $color-text-dark;
+    display: block;
+    font-size: 3.5rem;
+  }
+}
+
+.heading-tetriary {
+  backface-visibility: hidden;
+
+  &--main {
+    color: $color-text-dark;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem;
+  }
+
+  &--sub {
+    color: $color-text-dark;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem;
+  }
+}
+
+.paragraph {
+    font-size: $default-font-size;
+}

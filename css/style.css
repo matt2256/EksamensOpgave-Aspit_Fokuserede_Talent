@@ -1,0 +1,130 @@
+*,
+*::after,
+*::before {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%;
+  background-color: #f9f7f6; }
+
+body {
+  box-sizing: border-box; }
+
+body {
+  font-family: Myriad-Pro, Regular, Myriad Pro Regular, MyriadPro, Myriad Pro, Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.heading-primary {
+  backface-visibility: hidden; }
+  .heading-primary--main {
+    color: #f9f7f6;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem;
+    white-space: nowrap; }
+  .heading-primary--sub {
+    display: block;
+    font-size: 1.6rem;
+    color: #f9f7f6;
+    letter-spacing: 1rem; }
+
+.heading-secoundary {
+  backface-visibility: hidden; }
+  .heading-secoundary--main {
+    color: #404040;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: .4rem; }
+  .heading-secoundary--sub {
+    color: #404040;
+    display: block;
+    font-size: 3.5rem; }
+
+.heading-tetriary {
+  backface-visibility: hidden; }
+  .heading-tetriary--main {
+    color: #404040;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem; }
+  .heading-tetriary--sub {
+    color: #404040;
+    display: block;
+    font-size: 3.5rem;
+    letter-spacing: 1.5rem; }
+
+.paragraph {
+  font-size: 1.6rem; }
+
+.u-margin-buttom-small {
+  margin-bottom: 1.5rem !important; }
+
+.u-margin-buttom-medium {
+  margin-bottom: 4rem !important; }
+
+.u-margin-buttom-big {
+  margin-bottom: 8rem !important; }
+
+.u-margin-top-small {
+  margin-top: 1.5rem !important; }
+
+.u-margin-top-medium {
+  margin-top: 4rem !important; }
+
+.u-margin-top-big {
+  margin-top: 8rem !important; }
+
+.u-margin-top-huge {
+  margin-top: 10rem !important; }
+
+.section {
+  position: relative; }
+  .section__main-tekstbox {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 0%); }
+
+.btn:link, .btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 1.5rem 4rem;
+  display: inline-block;
+  margin-top: 2rem; }
+
+.btn--green {
+  background-color: #18c965;
+  color: #f9f7f6; }
+
+.header {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(24, 201, 101, 0.8)), url(../css/img/hero.jpg);
+  background-size: cover;
+  position: relative; }
+  .header__center {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 0%); }
+
+::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.row {
+  max-width: 100%;
+  margin: 0 auto; }
+
+[class^="col-"] {
+  float: left; }
+  [class^="col-"]:not(:last-child) {
+    margin-right: 6rem; }
+
+.col-1-of-3 {
+  width: calc((100% - 2 * 6rem) / 3);
+  background-color: indianred;
+  height: 60vh; }

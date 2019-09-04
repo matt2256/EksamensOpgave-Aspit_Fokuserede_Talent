@@ -10,11 +10,14 @@
 @import "base/typography";
 @import "base/utilities";
 
+//page
+@import "pages/home";  
+
 //components
 @import "components/button";
 
 //layout
 @import "layout/header";
+@import "layout/grid";
 
-//page
-@import "pages/home";   
+ 
