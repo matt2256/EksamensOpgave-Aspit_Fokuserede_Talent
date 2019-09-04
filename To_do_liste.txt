@@ -1,0 +1,6 @@
+1. lave en basic HTML '
+2. Lave html´en for headeren '
+3. Give classerne i headeren navne i forhold til BEM '
+4. Starte med styling af siden
+4.1 Give billede ordentlige opløsning 
+4.2 Lvae gradient der skal ligge over billedet

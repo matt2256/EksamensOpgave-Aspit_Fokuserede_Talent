@@ -1,0 +1,28 @@
+{
+  "name": "eksamensopgave-aspit_fokuserede_talent",
+  "version": "1.0.0",
+  "description": "Prøve eksamens opgave ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt2256/EksamensOpgave-Aspit_Fokuserede_Talent.git"
+  },
+  "keywords": [
+    "prøve",
+    "eksamen",
+    "prøveEksamen",
+    "Aspit"
+  ],
+  "author": "Mads (matt)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt2256/EksamensOpgave-Aspit_Fokuserede_Talent/issues"
+  },
+  "homepage": "https://github.com/matt2256/EksamensOpgave-Aspit_Fokuserede_Talent#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
