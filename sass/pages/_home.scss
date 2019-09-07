@@ -4,3 +4,25 @@
         @include AbsCenter;
     }
 }
+
+.citatbox {
+    
+    &__background {
+        background-color: $color-primary-dark;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    &__paragraph {
+        margin: auto;
+    }
+
+    &__heading {
+        margin: auto;
+    }
+
+    &__photo {
+
+    }
+}

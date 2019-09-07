@@ -4,6 +4,7 @@
 .row {
   max-width: $grid-width;
   margin: 0 auto;
+  padding: .8rem;
   
 }
 
@@ -17,6 +18,5 @@
 
 .col-1-of-3 {
   width: calc((100% - 2 * #{$gutter-horizontal}) / 3);
-    background-color: indianred;
-    height:60vh;
+    height:80vh;
 }

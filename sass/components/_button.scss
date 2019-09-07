@@ -4,7 +4,6 @@
     &:visited {
         text-transform: uppercase;
         text-decoration: none;
-        padding: 1.5rem 4rem;
         display: inline-block;
         margin-top: 2rem;
     }
@@ -12,5 +11,17 @@
     &--green {
         background-color: $color-primary-light;
         color: $color-text-light;
+        font-size: 1.4rem;
+        padding: 1.5rem 2rem;
+    }
+
+    &--transperant {
+        background-color: transparent;
+        color: $color-text-dark;
+        font-size: 1.6rem;
+        text-transform: none !important;
+        border-bottom: 2px solid $color-primary-dark;
+        margin-left: 1.6rem;
+       
     }
 }

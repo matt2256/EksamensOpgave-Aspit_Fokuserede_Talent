@@ -12,7 +12,7 @@ body {
     color: $color-text-light;
     display: block;
     font-size: 3.5rem;
-    letter-spacing: 1.5rem;
+    letter-spacing: .8rem;
     white-space: nowrap;
   }
 
@@ -48,7 +48,7 @@ body {
     color: $color-text-dark;
     display: block;
     font-size: 3.5rem;
-    letter-spacing: 1.5rem;
+    letter-spacing: .3rem;
   }
 
   &--sub {
@@ -59,6 +59,26 @@ body {
   }
 }
 
+.heading-quad {
+    backface-visibility: hidden;
+
+    &--main {
+        color: $color-text-dark;
+        display: block;
+        font-size: 3.5rem;
+        letter-spacing: .3rem;
+      }
+    
+      &--sub {
+        color: $color-text-dark;
+        display: block;
+        font-size: 3.5rem;
+        letter-spacing: 1.5rem;
+      }
+}
+
 .paragraph {
     font-size: $default-font-size;
 }
+
+

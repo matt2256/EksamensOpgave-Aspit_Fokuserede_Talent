@@ -6,13 +6,25 @@
 4.2 Lvae gradient der skal ligge over billedet '
 4.3 centrer elementerne '
 4.4 lave knappen '
-5 lav html´en for den første section af main
+5 lav html´en for den første section af main '
 5.1 lav en div med en h2 ' 
-5.2 lav tre columns 
-5.3 indsæt billeder i css 
-5.4 lav diver med h3 
-5.5 lav diver med p 
-5.6 lav knapper med a tag
-5.7 giv section classerne navne i forhold til BEM
+5.2 lav tre columns '
+5.3 indsæt billeder i css '
+5.4 lav diver med h3 '
+5.5 lav diver med p '
+5.6 lav knapper med a tag '
+5.7 giv section classerne navne i forhold til BEM ´
+5.8 style det hele ' 
+6. Lav citat box - lav html´en  '
+6.1 lave en div '
+6.1.1 lav en paragrahp ' 
+6.1.2 lav en h4 '
+6.1.3 lav et img tag '
+6.2 indsæt lorem ' 
+6.3 giv det hele classet iforhold til BEM '
+6.4 indsæt billede '
+6.4.1 gør billedet rundt 
+6.5 gør at paragraphen og h4 elementerne ligger ved siden af billedet
+6.6 style det hele
 
 
