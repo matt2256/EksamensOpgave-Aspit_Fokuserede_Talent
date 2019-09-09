@@ -10,7 +10,6 @@
     &__background {
         background-color: $color-primary-dark;
         display: flex;
-        flex-direction: column;
         justify-content: center;
     }
 
@@ -23,6 +22,10 @@
     }
 
     &__photo {
+        
+    }
 
+    &--centering {
+        width: 60%;
     }
 }

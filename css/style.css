@@ -107,7 +107,6 @@ body {
 .citatbox__background {
   background-color: #0f7d3f;
   display: flex;
-  flex-direction: column;
   justify-content: center; }
 
 .citatbox__paragraph {
@@ -115,6 +114,9 @@ body {
 
 .citatbox__heading {
   margin: auto; }
+
+.citatbox--centering {
+  width: 60%; }
 
 .btn:link, .btn:visited {
   text-transform: uppercase;
