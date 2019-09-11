@@ -1,3 +1,6 @@
+
+
+
 body {
   font-family: Myriad-Pro, Regular, Myriad Pro Regular, MyriadPro, Myriad Pro,
     Arial, Helvetica, sans-serif;
@@ -63,9 +66,9 @@ body {
     backface-visibility: hidden;
 
     &--main {
-        color: $color-text-dark;
+        color: $color-grey;
         display: block;
-        font-size: 3.5rem;
+        font-size: 1.5rem;
         letter-spacing: .3rem;
       }
     

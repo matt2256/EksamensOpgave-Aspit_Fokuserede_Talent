@@ -23,8 +23,17 @@
 6.2 indsæt lorem ' 
 6.3 giv det hele classet iforhold til BEM '
 6.4 indsæt billede '
-6.4.1 gør billedet rundt 
-6.5 gør at paragraphen og h4 elementerne ligger ved siden af billedet
-6.6 style det hele
+6.4.1 gør billedet rundt '
+6.5 gør at paragraphen og h4 elementerne ligger ved siden af billedet '
+6.6 style det hele '
+7 lav html´en for sectionen 
+7.1 lav gridet '
+7.1.1 del gridet op i to del '
+7.1.2 lav gridet for de fire nyheder '
+7.1.3 lav gridet for de to andre bokse '
+7.2 lav boks billede skal være inde i
+7.2.1 indsæt billede
+7.3 lav et a tag og brug den heading-tetritary på den
+
 
 
